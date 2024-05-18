@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\LoginController;
+use App\Http\Controllers\RegisterAdminController;
 use App\Http\Controllers\RegisterPenggunaController;
 use App\Http\Controllers\Controller;
 use App\Http\Controllers\AdminController;
@@ -22,6 +23,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return redirect()->route('login');
 });
+
+// Route Register Admin
+Route::get('/registeradmin', [RegisterAdminController::class, 'showRegistrationForm'])->name('registeradmin');
+Route::post('/registeradmin', [RegisterAdminController::class, 'registeradmin']);
 
 // Route Login Admin
 Route::get('/login', [LoginController::class, 'showLoginForm'])->name('login');
