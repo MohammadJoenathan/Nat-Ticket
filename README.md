@@ -10,7 +10,14 @@
 
 ## Note
 - tiket_pertandingan.sql : Database untuk Project Laravel
-- tiket_pertangdingan_tugas_database.sql : Database yang dibuat pada tugas Database Project SI
+- tiket_pertandingan_tugas_database.sql : Database yang dibuat pada tugas Database Project SI
+
+
+## Cara Menjalankan Webiste
++ Buka halaman registeradmin
++ Buat akun Admin
++ Login dengan akun Admin yang sudah di buat
++ Maka akan masuk Dashboard Admin
 
 ## Fitur Pada Website
 
@@ -30,6 +37,14 @@ Webiste ini dibangun dengan menggunakan :
 - [MySQL](https://www.mysql.com/) - MySQL adalah sistem manajemen database yang bersifat open-source yang menggunakan perintah dasar atau bahasa pemrograman yang berupa structured query language (SQL).
 - [Bootsrap](https://getbootstrap.com/) - Bootstrap adalah sebuah framework CSS, HTML, dan JavaScript yang digunakan untuk mempermudah pembuatan website responsif dan mobile-friendly. Framework ini berfokus pada pengembangan front-end website dengan menyediakan komponen-komponen yang siap digunakan, seperti tombol, formulir, navigasi, dan lainnya.
 - [Chrome](https://www.google.com/intl/id/chrome/) - Chrome adalah peramban web (web browser) yang dikembangkan oleh perusahaan teknologi terkemuka, yaitu Google.
+
+## Requirements
+
+- [Laravel 11](https://laravel.com/docs/11.x/installatio)
+- [XAMPP 8.0.30 or leter](https://www.apachefriends.org/download.html)
+- [MySQL 8.0.35 or leter](https://dev.mysql.com/downloads/installer/) 
+- [Bootsrap 5 or leter](https://getbootstrap.com/)
+
 
 ## Requirements
 
