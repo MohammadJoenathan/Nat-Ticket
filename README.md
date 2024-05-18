@@ -9,8 +9,8 @@
 > Nat Ticket adalah sebuah sistem informasi yang dikembangkan untuk mempermudah pengelolaan dan penjualan tiket pertandingan sepak bola dan futsal. Dibuat menggunakan framework Laravel, Nat Ticket menyediakan fitur lengkap untuk membuat jadwal pertandingan dan tiket pertadingan agar dapat mengatur dan mengakses informasi tiket secara efisien dan efektif.
 
 ## Note
-- dbtugas_tiket_pertangdingan.sql : Database yang dibuat pada tugas Database Project SI
 - tiket_pertandingan.sql : Database untuk Project Laravel
+- tiket_pertangdingan_tugas_database.sql : Database yang dibuat pada tugas Database Project SI
 
 ## Fitur Pada Website
 
